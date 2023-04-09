@@ -1,6 +1,6 @@
 # TimeSeriesAnalysis_GoogleTrends
 
-#The Goal: Better Understand Search Interest
+# The Goal: Better Understand Search Interest
 The goal of this project is to assess and better understand the patterns of search interest we observe for Chipotle Mexican Grill.
 
 Datasets used:
